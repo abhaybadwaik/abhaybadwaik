@@ -1,70 +1,77 @@
-# 👋 Hi, I'm Abhay Badwaik
+<!-- GitHub Profile README -->
 
-💻 **Software Engineer | Python | Java | Automation | Data Analysis | Power BI | RPA**  
-🚀 Passionate about building efficient automation solutions and mastering tools across backend, data, and cloud ecosystems.
-
----
-
-## 🔧 Tech Stack
-
-**Languages:**  
-Python, Java, JavaScript, SQL, Shell
-
-**Automation & Tools:**  
-Selenium WebDriver, RPA (Python-based), Git, Postman, REST APIs
-
-**Data & Analytics:**  
-NumPy, Pandas, Matplotlib, Seaborn, Power BI, Excel (Automation with Python)
-
-**DevOps / Cloud (Learning):**  
-Docker, Linux, Dynatrace, Apache Kafka
+<h1 align="center">Hi, I'm Abhay Badwaik</h1>
+<p align="center">
+  <strong>Software Engineer @ Eidiko Systems Integrators</strong><br>
+  Java Developer
+</p>
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🧩 About Me
 
-- Building Python automation scripts for real-world workflows  
-- Learning **Banking Domain**, **Core Banking Concepts**, and **Dynatrace**  
-- Practicing **Java 8 Streams & Functional Programming**  
-- Enhancing my knowledge of **AI/ML**, **Pandas**, and **Data Visualization**  
-- Creating dashboards using **Power BI**  
-
----
-
-## 📘 What I'm Learning Next
-
-- AI Agents & PyData Framework  
-- Apache Kafka (Deep Dive)  
-- End-to-end automation projects  
-- Full-stack integrations for automation workflows  
+- 🎓 Information and Technology graduate from Nagpur University  
+- 💼 Currently working with **Java Spring Boot backend**, **Power BI dashboards**, and **RPA automation using Selenium**  
+- 🧠 Passionate about clean UI/UX, automation, and enterprise integration  
+- 🌐 Portfolio: https://abhays-portfolio.netlify.app/
 
 ---
 
-## 📂 Featured Projects
+## ⚙️ Tech Stack
 
-- ✅ **Python Automation Scripts**  
-- ✅ **Selenium Web Automation**  
-- ✅ **Data Visualization Dashboards**  
-- ✅ **API-based Project Integrations**
+### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python" height="30" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="30" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="25" />
+</p>
 
-_(Add actual project links once uploaded!)_
+### 🧩 Integration & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat&logo=api&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MySQL-005E87?style=flat&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=power-automate&logoColor=white" height="25"/>
+</p>
+
+### 🛠 Dev Tools & Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman" height="30" />
+  <img src="https://img.shields.io/badge/GitBash-000000?style=flat&logo=gnu-bash&logoColor=white" height="25" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" />
+</p>
 
 ---
 
-## 🏆 Goals for 2025
+## 🔭 Currently Exploring
 
-- Build 10+ meaningful GitHub projects  
-- Become an expert in Data Automation + Power BI + AI/ML  
-- Contribute to open-source Python libraries  
-
----
-
-## 📫 Connect With Me
-
-📩 **Email:** abhaybadwaik330@gmail.com  
-🔗 **LinkedIn:** *Add your LinkedIn URL*  
-🌐 **Portfolio:** *Add when created*
+- Advanced Spring Boot backend development  
+- Dynatrace monitoring & alerting  
+- Kafka workflows and real-time processing  
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:badwaikabhay0@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" height="25" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://abhays-portfolio.netlify.app/">
+    <img src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png" height="25" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<!-- GitHub Stats (optional) -->
+<!--
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhaybadwaik&show_icons=true&theme=transparent)
+-->
