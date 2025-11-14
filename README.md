@@ -41,6 +41,9 @@
   <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman" height="30" />
   <img src="https://img.shields.io/badge/GitBash-000000?style=flat&logo=gnu-bash&logoColor=white" height="25" />
   <img src="https://skillicons.dev/icons?i=idea" height="30" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="30" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" height="25" />
+
 </p>
 
 ---
