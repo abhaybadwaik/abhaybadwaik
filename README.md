@@ -24,7 +24,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,python" height="30" />
   <img src="https://skillicons.dev/icons?i=selenium" height="30" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="25" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="30" />
 <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=databricks&logoColor=white" height="25" />
 
 </p>
