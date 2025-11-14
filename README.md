@@ -59,7 +59,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:badwaikabhay0@gmail.com">
+  <a href="mailto:badwaikabhay@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" height="25" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/">
