@@ -62,7 +62,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=badwaikabhay@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" height="25" alt="Gmail" />
 </a>
-  <a href="www.linkedin.com/in/abhay-badwaik-006444237">
+  <a href="www.linkedin.com/in/abhay-badwaik">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="25" alt="LinkedIn" />
   </a>
   <a href="https://abhays-portfolio.netlify.app/">
