@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/MySQL-005E87?style=flat&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=power-automate&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25"/>
 </p>
 
 ### 🛠 Dev Tools & Environments
