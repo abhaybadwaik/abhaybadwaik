@@ -4,7 +4,7 @@
   <strong>Software Engineer @ Eidiko Systems Integrators</strong><br>
   AI Engineer
 
-  <strong>Generative AI</strong> & <strong>Agentic AI Systems</strong>
+                                        <strong>Gene AI</strong> & <strong>Agentic AI</strong>
 </p>
 
 <p align="center">
