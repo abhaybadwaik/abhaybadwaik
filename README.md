@@ -61,7 +61,8 @@
   <img src="https://skillicons.dev/icons?i=python,java,react,typescript,tailwind" height="35" />
   <img src="https://skillicons.dev/icons?i=spring" height="35" />
   <img src="https://skillicons.dev/icons?i=selenium" height="35" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" />
+  <!-- <img src="https://skillicons.dev/icons?i=mysql" height="35" /> -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
