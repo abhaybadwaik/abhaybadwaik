@@ -1,10 +1,10 @@
 <!-- GitHub Profile README -->
 <h1 align="center">Hi, I'm Abhay Badwaik </h1>
 <p align="center"> 
-  <strong>Software Engineer @ Eidiko Systems Integrators</strong><br>
-  AI Engineer
+  <strong>AI Engineer @ Eidiko Systems Integrators</strong><br>
+  GenAI & Agentic AI
 
-                                        <strong>Gene AI</strong> & <strong>Agentic AI</strong>
+                                        
 </p>
 
 <p align="center">
