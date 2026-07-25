@@ -1,5 +1,5 @@
 <!-- GitHub Profile README -->
-<h1 align="center">Hi, I'm Abhay Badwaik 👋</h1>
+<h1 align="center">Hi, I'm Abhay Badwaik </h1>
 <p align="center">
   <strong>AI Engineer</strong> — Specializing in <strong>Generative AI</strong> & <strong>Agentic AI Systems</strong>
 </p>
