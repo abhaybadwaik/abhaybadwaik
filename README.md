@@ -69,6 +69,13 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
 
+### 🛠️ Dev Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,postman,linux" height="35" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🔭 Currently Exploring
