@@ -59,6 +59,7 @@
 ### 🚀 Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,react,typescript,tailwind" height="35" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="35" />
 </p>
 
 ### ☁️ Cloud, DevOps & Data
