@@ -25,7 +25,7 @@
 - 🏦 Domain expertise in **Banking & Enterprise** environments — building AI systems for regulated, high-stakes production workloads
 - 🧩 Experienced across the full GenAI lifecycle: agent orchestration, **RAG pipeline architecture**, vector search, and LLM observability
 - 🔗 Passionate about designing autonomous, multi-agent systems that go beyond single-shot LLM calls into real reasoning workflows
-- 🌐 Portfolio: https://abhays-portfolio.netlify.app/
+- 🌐 Portfolio: https://abhaydevfolio.netlify.app/
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
