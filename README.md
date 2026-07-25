@@ -64,15 +64,16 @@
 ### ☁️ Cloud, DevOps & Data
 <p align="left">
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=docker,linux" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,postman" height="35" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
 
 ### 🛠️ Dev Tools & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,postman,linux" height="35" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,linux" height="35" />
+  <!-- <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" /> -->
+  <img src="https://skillicons.dev/icons?i=idea" height="35" />
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="35" />
   <img src="https://skillicons.dev/icons?i=github" height="35" />
