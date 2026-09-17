@@ -1,12 +1,8 @@
 <!-- GitHub Profile README -->          
 
-<h1 align="center">Hi, I'm Abhay Badwaik </h1>
-<p align="center"> 
-  <strong>Software Engineer @ Eidiko Systems Integrators</strong><br>
-AI Engineer
- 
-                                        
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=220&section=header&text=Abhay%20Badwaik&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%40%20Eidiko%20Systems%20Integrators%20%7C%20AI%20Engineer&descSize=18&descAlignY=65&descColor=90CAF9" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Designing+Autonomous+Multi-Agent+Systems;LangChain+%7C+LangGraph+%7C+LlamaIndex+%7C+CrewAI;Architecting+RAG+Pipelines+at+Scale;AI+Engineer+%7C+Banking+%26+Enterprise+Domain" alt="Typing SVG" />
@@ -129,4 +125,8 @@ AI Engineer
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaybadwaik&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhaybadwaik/abhaybadwaik/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
